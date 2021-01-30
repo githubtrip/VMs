@@ -14,7 +14,7 @@ curl -LJOk https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip
 
 
 cd C:\Users\Administrator\Desktop
-curl -LJOk https://raw.githubusercontent.com/ThuongHai/thuonghai/master/ChromeSetup.exe
+curl -LJOk https://raw.githubusercontent.com/githubtrip/VMs/master/ChromeSetup.exe
 curl -LJOk https://raw.githubusercontent.com/ThuongHai/thuonghai/master/anti-close.bat
 start ChromeSetup.exe
 cls
